@@ -1,2 +1,7 @@
 /* In this file you can add sloppy architectured styles when you're lazy */
 
+.warning {
+  font-weight: bold;
+  background-color: yellow;
+  border-bottom: 3px solid red;
+}
