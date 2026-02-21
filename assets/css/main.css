@@ -6,6 +6,7 @@
 
 @import 'grid.css';
 
+@import 'components/components.css';
 @import 'components/black-section.css';
 
 @import 'atoms.css';

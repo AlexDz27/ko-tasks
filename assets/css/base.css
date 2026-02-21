@@ -1,6 +1,9 @@
 .list li {
   margin-bottom: 1.1rem;
 }
+.list--mb-a {
+  margin-bottom: 2.2rem;
+}
 
 .btn {
   background-color: transparent;
